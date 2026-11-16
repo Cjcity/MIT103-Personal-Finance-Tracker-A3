@@ -8,7 +8,7 @@ Student ID: MLB0000637
 This project extends the Personal Finance Tracker
 developed in Assessment 2 using Python.
 
-## Features
+## Feature
 - Add, display, search and delete transactions
 - CSV file storage and restoration
 - Admin and Viewer user roles
